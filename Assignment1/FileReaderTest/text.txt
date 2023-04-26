@@ -1,0 +1,2 @@
+course credits score
+cs121 4 98

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="encrytor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/encrytor_jar</output-path>
+    <root id="archive" name="encrytor.jar">
+      <element id="module-output" name="encrytor" />
+    </root>
+  </artifact>
+</component>

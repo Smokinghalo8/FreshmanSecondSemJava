@@ -1,0 +1,14 @@
+<record>
+    <student id="1">
+        <firstName>Flanthan</firstName>
+        <lastName>VII</lastName>
+        <major>Computer Science</major>
+        <gpa>2.45</gpa>
+    </student>
+    <student id="2">
+        <firstName>Joe</firstName>
+        <lastName>Mama</lastName>
+        <major>Art History</major>
+        <gpa>5.6</gpa>
+    </student>
+    </record>
