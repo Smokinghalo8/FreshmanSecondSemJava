@@ -2,7 +2,7 @@
 Collage 2nd Semester Java Activity
 
 |Number|Repo|Descripton|
-|-----|--------|------------|
+|:-----:|--------|------------|
 
 |A1|[KDD Student-Teacher](https://github.com/Smokinghalo8/FreshmanSecondSemJava/tree/main/KDD%20Student-Teacher/KDD)|The Files made by me and Andrew Bonner in our Teacher-Scholar program|
 
